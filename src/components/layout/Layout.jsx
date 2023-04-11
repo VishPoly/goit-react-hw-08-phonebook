@@ -20,7 +20,7 @@ const Layout = () => {
       <Footer>
         <p>
           homework
-          <a href="https://github.com/hvoarang"> Denys iElkin</a> goit-react-hw-08-phonebook
+          <a href="https://vishpoly.github.io/goit-react-hw-08-phonebook/"> Poly Vish</a> goit-react-hw-08-phonebook
         </p>
       </Footer>
     </Container>
