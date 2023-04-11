@@ -6,6 +6,8 @@ body {
   font-family: 'Roboto';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #e3e7eb;
+  color: rgb(38, 70, 50);
 }
 
 code {
